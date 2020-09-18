@@ -125,13 +125,13 @@ PrefabInstance:
         type: 3}
       propertyPath: m_fontAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 348141c78bf5c2240b25ea64abb0085e,
+      objectReference: {fileID: 11400000, guid: 30d256d9833277140b0d04efcb0de04e,
         type: 2}
     - target: {fileID: 228235536582099591, guid: a267c8ffefec686408a56791a454d299,
         type: 3}
       propertyPath: m_sharedMaterial
       value: 
-      objectReference: {fileID: 2100000, guid: b3f72dc3b6f714f47a76f594d56e2014, type: 2}
+      objectReference: {fileID: 2100000, guid: e36d43e1ff951dd4098b7eb638406b1b, type: 2}
     - target: {fileID: 3136632543106373194, guid: a267c8ffefec686408a56791a454d299,
         type: 3}
       propertyPath: m_LocalScale.x
@@ -141,13 +141,13 @@ PrefabInstance:
         type: 3}
       propertyPath: m_fontAsset
       value: 
-      objectReference: {fileID: 11400000, guid: 348141c78bf5c2240b25ea64abb0085e,
+      objectReference: {fileID: 11400000, guid: 30d256d9833277140b0d04efcb0de04e,
         type: 2}
     - target: {fileID: 8954990171048525869, guid: a267c8ffefec686408a56791a454d299,
         type: 3}
       propertyPath: m_sharedMaterial
       value: 
-      objectReference: {fileID: 2100000, guid: b3f72dc3b6f714f47a76f594d56e2014, type: 2}
+      objectReference: {fileID: 2100000, guid: e36d43e1ff951dd4098b7eb638406b1b, type: 2}
     - target: {fileID: 8954990171048525869, guid: a267c8ffefec686408a56791a454d299,
         type: 3}
       propertyPath: m_text
@@ -172,7 +172,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: b3f72dc3b6f714f47a76f594d56e2014, type: 2}
+      objectReference: {fileID: 2100000, guid: e36d43e1ff951dd4098b7eb638406b1b, type: 2}
     - target: {fileID: 228235536582099705, guid: a267c8ffefec686408a56791a454d299,
         type: 3}
       propertyPath: m_Mesh
@@ -182,7 +182,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: 2100000, guid: b3f72dc3b6f714f47a76f594d56e2014, type: 2}
+      objectReference: {fileID: 2100000, guid: e36d43e1ff951dd4098b7eb638406b1b, type: 2}
     - target: {fileID: 2471792579206317262, guid: a267c8ffefec686408a56791a454d299,
         type: 3}
       propertyPath: m_Mesh
