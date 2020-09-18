@@ -1,0 +1,13 @@
+symlinks:
+  - create-dest-folder: true
+    include-meta-file: true
+    src: ..\_external\MixedRealityToolkit-Unity\Assets\MRTK
+    dest: ..\Assets\MRTK
+    target:
+      - Core
+      - Providers
+      - SDK
+      - Services
+      - Tools
+      - Extensions
+      - Examples
