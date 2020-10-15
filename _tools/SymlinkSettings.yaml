@@ -8,6 +8,7 @@ symlinks:
       - Providers
       - SDK
       - Services
+      - StandardAssets
       - Tools
       - Extensions
       - Examples
