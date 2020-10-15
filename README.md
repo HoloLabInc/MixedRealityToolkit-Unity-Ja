@@ -21,7 +21,13 @@ MRTK-Unity の UI コンポーネントの日本語対応バージョンです�
 
 https://github.com/HoloLabInc/MixedRealityToolkit-Unity-Ja/releases
 
+<br>
+<br>
+
 ---
+
+<br>
+<br>
 
 ## 本リポジトリの Unity プロジェクトセットアップ
 本リポジトリに含まれる Unity プロジェクトを開くには、以下のセットアップを行ってください。
