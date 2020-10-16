@@ -1,4 +1,4 @@
-# MixedRealityToolkit-Unity-Ja (MRTK-UNity-Ja)
+# MixedRealityToolkit-Unity-Ja (MRTK-Unity-Ja)
 MRTK-Unity の UI コンポーネントの日本語対応バージョンです。
 
 フリーの日本語フォント M+ Fonts を利用しています。
