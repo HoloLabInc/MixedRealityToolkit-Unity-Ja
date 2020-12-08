@@ -1,4 +1,6 @@
 # MixedRealityToolkit-Unity-Ja (MRTK-Unity-Ja)
+[![openupm](https://img.shields.io/npm/v/jp.co.hololab.mrtk.ja?label=openupm&registry_uri=https://package.openupm.com)](https://openupm.com/packages/jp.co.hololab.mrtk.ja/)
+
 MRTK-Unity の UI コンポーネントの日本語対応バージョンです。
 
 フリーの日本語フォント M+ Fonts を利用しています。
