@@ -8,6 +8,10 @@ MRTK-Unity の UI コンポーネントの日本語対応バージョンです�
 ## プロジェクトへのインポート
 事前に Unity プロジェクトに MRTK をインポートしてください。
 
+### OpenUPM でのインポート
+```
+openupm add jp.co.hololab.mrtk.ja
+```
 
 ### Unity Package Manager (UPM) でのインポート
 `Packages\manifest.json` の `"dependencies"` 内に以下の行を追加してください。
